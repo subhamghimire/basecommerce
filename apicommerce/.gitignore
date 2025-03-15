@@ -1,0 +1,75 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.so
+*.egg
+*.egg-info
+dist
+build
+eggs
+*.bak
+*.swp
+*.swo
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+db.sqlite3
+*.db
+*.tar
+*.gz
+*.pyc
+*.log
+*.pot
+*.mo
+
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# IDE or editor config
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+.coverage
+*.coveragerc
+
+# Static files
+/staticfiles
+
+# Media files
+/media
+
+# PyCharm
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Linux system files
+*~
+
+# Backup files
+*.bak
+*.swp
+
+# Pytest
+.cache
+
+# Credentials
+.env
+
+# Virtual env
+dj/
